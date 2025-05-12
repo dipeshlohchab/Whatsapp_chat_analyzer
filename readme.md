@@ -78,10 +78,5 @@ Made with love, sarcasm, and way too much caffeine.
 
 ---
 
-## 📸 Screenshots
-
-Coming soon... or not. Depends on how photogenic your chat is.
-
----
 
 Now go ahead, roast your friends with **data-backed insults**. 🎉
